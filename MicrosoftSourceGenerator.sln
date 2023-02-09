@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{A6518A26-E489-499D-8024-CA6EA77AE96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionGenerator", "FunctionGenerator\FunctionGenerator.csproj", "{A4A5EC1C-D4E8-4C2F-B525-57E9EF54A1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6518A26-E489-499D-8024-CA6EA77AE96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6518A26-E489-499D-8024-CA6EA77AE96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6518A26-E489-499D-8024-CA6EA77AE96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6518A26-E489-499D-8024-CA6EA77AE96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A5EC1C-D4E8-4C2F-B525-57E9EF54A1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A5EC1C-D4E8-4C2F-B525-57E9EF54A1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A5EC1C-D4E8-4C2F-B525-57E9EF54A1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A5EC1C-D4E8-4C2F-B525-57E9EF54A1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
